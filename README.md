@@ -29,6 +29,6 @@ using SQLAlchemy, Flask for the routes, and how to setup a seeds file for the da
 
 Github: https://github.com/yardboy2401
 
-Email: mailto:yardboy2401@gmail.com
+Email: yardboy2401@gmail.com
 
 - - - -
